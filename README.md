@@ -7,9 +7,9 @@
 
 During my internship at **Clouda Inc.**, I focused on:
 
-- ⚙️ **Cloud-Native Architectures:** Designed and deployed multi-cluster Kubernetes environments with ingress-based load balancing.
+- ⚙️ **Cloud-Native Architectures:** Designed and deployed multi-cluster Kubernetes environments.
 - 🧠 **AI & RAG Pipelines:** Built retrieval-augmented generation (RAG) MVPs using OpenAI, Milvus.
-- 🔍 **Developer Environments:** Developed scalable and isolated workspaces using ArgoCD, GitHub Actions, and EKS.
+- 🔍 **Developer Environments:** Developed scalable and isolated workspaces.
 
 📅 Internship Duration: **July 2024 – Dec 2024**
 
