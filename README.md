@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hayanan Thevaranjan</h1>
 <h3 align="center">SE Intern @ Clouda Inc.</h3>
 
-<p align="center">
-  <a href="https://github.com/Hayanan30">
-    <img src="https://img.shields.io/badge/Visit%20My%20Main%20GitHub%20Profile-%F0%9F%94%97-blue?style=for-the-badge&logo=github" alt="Main GitHub"/>
-  </a>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=AI+Intern+%40+Clouda+Inc.;Cloud+Native+DevOps+Learner;MLOps+%7C+RAG+%7C+LLMs+%7C+Multi-cluster+K8s;Building+AI-powered+Infra+at+Scale!" />
-</p>
-
 ---
 
 ## 💼 Internship Experience – Clouda Inc.
@@ -36,16 +28,6 @@ During my internship at **Clouda Inc.**, I focused on:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,go,javascript,react,nextjs,nodejs,docker,kubernetes,terraform,aws,bash,git,github,vscode,androidstudio" />
-</p>
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayanan30&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayanan30&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
